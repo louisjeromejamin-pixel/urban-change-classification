@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+data/
+*.geojson
+submission*.csv
+*.pkl
+*.joblib
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
